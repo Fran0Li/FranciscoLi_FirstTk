@@ -1,1 +1,1 @@
-print("first time on git")
+import tkinter as tk
