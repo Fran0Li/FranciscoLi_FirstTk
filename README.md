@@ -1,2 +1,3 @@
 # FranciscoLi_FirstTk
 Interfaz gráfica utilizando Tkinter
+La interfaz presentada cuenta con...
